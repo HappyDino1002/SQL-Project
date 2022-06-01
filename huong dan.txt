@@ -1,0 +1,7 @@
+
+Khôi phục dữ liệu bằng file back up (.bak) trong tệp.
+Attach 2 file trong thư mục
+Open file SQL có chữ Script Ctrl + O
+
+Đăng nhập với user name : AbcUser
+Password : 1234
